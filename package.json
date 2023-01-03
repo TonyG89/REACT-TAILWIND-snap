@@ -37,15 +37,5 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.2.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TonyG89/REACT-TAILWIND-snap.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TonyG89/REACT-TAILWIND-snap/issues"
-  },
-  "homepage": "https://github.com/TonyG89/REACT-TAILWIND-snap#readme"
+  }
 }
